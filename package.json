@@ -9,9 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.19",
+    "@mui/material": "^5.14.20",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.7",
     "next": "14.0.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-countdown-circle-timer": "^3.2.1",
+    "react-dom": "18.2.0",
+    "react-fast-marquee": "^1.6.2",
+    "react-multi-carousel": "^2.8.4",
+    "styled-components": "^6.1.1",
+    "swiper": "^11.0.5"
   },
   "devDependencies": {
     "eslint": "8.55.0",
