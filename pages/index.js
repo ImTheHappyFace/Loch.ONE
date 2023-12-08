@@ -42,6 +42,10 @@ export default function Home() {
   
   return (
       <>
+              <Head>
+        <title>LOCH</title>
+      </Head>
+
           <div className='masterContainer' style={mainDiv} >
             <ModalSignup/>
             <div style={left} className="left">
