@@ -9,8 +9,8 @@ import 'swiper/css/navigation';
 import { EffectCoverflow, Pagination, Navigation,Autoplay } from 'swiper/modules';
 
 import slide_image_1 from "../../public/assets/images/Card 1.svg";
-import slide_image_2 from '../../public/assets/images/card2.svg';
-import slide_image_3 from '../../public/assets/images/card3.svg';
+import slide_image_2 from '../../public/assets/images/Card2.svg';
+import slide_image_3 from '../../public/assets/images/Card3.svg';
 
 export default function NavbarCarousal(){
     return(

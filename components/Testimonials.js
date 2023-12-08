@@ -1,5 +1,5 @@
 import { Typography } from "@mui/material";
-import logo from "../public/assets/images/logo.svg"
+import logo from "../public/assets/images/Logo.svg"
 import TestimonialCarousal from "./Testimonial/TestimonialCard";
 
 export default function Testimonials(){
